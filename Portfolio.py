@@ -14,7 +14,7 @@ def loading1():
         time.sleep(1.0)
         print(".", end="", flush=True)
     print("\n\n")
-    
+
 def loading2():
     print("\033[0m" + "\n\nLoading", end="", flush=True)
     for i in range(3):
