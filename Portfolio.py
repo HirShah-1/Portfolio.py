@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 14 15:32:50 2026
-
 @author: Hir Shah
 """
 
