@@ -1,4 +1,4 @@
-# Python Portfolio Program
+# Portfolio Program
 An interactive command-line portfolio built in Python.
 
 ## About
