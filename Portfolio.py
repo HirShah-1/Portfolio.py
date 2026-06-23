@@ -32,7 +32,7 @@ def about_me():
            Major: Finance & Management Information Systems
                  University: Rutgers Business School
                       Graduation: December 2026
- Skills: Python, SQL, JavaScript, Microsoft, Finance modeling, Excel""")
+ Skills: Python, SQL, JavaScript, Microsoft Office, Financial modeling""")
     
 
 def background():
@@ -56,9 +56,10 @@ def background():
             2022, where I learned Python. My interest for 
             coding grew even more as I decided I wanted it 
             to be part of my career, so I took AP Computer 
-            Science in high school, and have continued to 
-            build my coding skills in college learning SQL 
-                             and Python.
+            Science in high school where I futher built my 
+           coding skills in JavaScript, and have continued 
+            to build my coding skills in college learning 
+                           SQL and Python.
                         
            I bridge the gap between financial strategy and 
             technical execution, whether that's building 
@@ -156,7 +157,7 @@ def interests():
         print("\033[96m" + "\n                            Interests")
         print("\033[93m" + " -" * 34)
     
-        print("\033[0m" + """\n       Outside of finance and coding, I like to I play tennis, 
+        print("\033[0m" + """\n          Outside of college, I like to I play tennis, 
           paint, and, have a deep love for animals. I'm also 
             an avid gardener - currently propagating snake 
           plants, roses, and a mulberry tree from cuttings.
